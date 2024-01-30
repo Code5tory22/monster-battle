@@ -1,0 +1,40 @@
+{
+  "monsters": [
+    {
+      "id": 1,
+      "name": "Ravx",
+      "role": "Bruser",
+      "type": "Earth",
+      "atk": 5,
+      "def": 5,
+      "spatk": 1,
+      "spdef": 2,
+      "hp": 5,
+      "spd": 2
+    },
+    {
+      "id": 2,
+      "name": "Droge",
+      "class": "Mage",
+      "type": "Dark",
+      "atk": 1,
+      "def": 1,
+      "spatk": 6,
+      "spdef": 2,
+      "hp": 3,
+      "spd": 3
+    },
+    {
+      "id": 3,
+      "name": "Rhim",
+      "class": "Markman",
+      "type": "Wind",
+      "atk": 5,
+      "def": 1,
+      "spatk": 2,
+      "spdef": 1,
+      "hp": 3,
+      "spd": 4
+    }
+  ]
+}
